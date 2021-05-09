@@ -21,23 +21,23 @@ so that I can quickly create a professional README for a new project
 ## Acceptance Criteria
 
 Given a command-line application that accepts user input: 
-1. WHEN I am prompted for information about my application repository, a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+1. When I am prompted for information about my application repository, a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Installation, Usage, License, and email
 
 2. When I enter my project title, then this is displayed as the title of the README
 
-3. When I enter a description, installation instructions, usage information, contribution guidelines, and test instructions,
-then this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-
-4. When I choose a license for my application from a list of options, then a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-
-5. When I enter my GitHub username, then this is added to the section of the README entitled Questions, with a link to my GitHub profile
+3. When I enter a description, installation instructions, usage information, license and usage,
+then this information is added to the sections of the README entitled Description, Installation, Usage, License, and Email
 
 6. When I enter my email address, then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 
-7. When I click on the links in the Table of Contents, then I am taken to the corresponding section of the README
+## Mock-Up
 
-## URL for the recorder video
-![README Recoding](./develop/ReadmeGeneratorRecording.MP4)
+The following image shows the appearance and functionality:
+
+![README Generator](./develop/readmegenerator.PNG)
+
+## Link to the recording video
+![README Recoding](https://github.com/swethareddyl/ReadmeGenerator/blob/main/develop/ReadmeGeneratorRecording.mp4)
 
 ## Github link
-
+https://swethareddyl.github.io/ReadmeGenerator/
